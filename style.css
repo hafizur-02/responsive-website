@@ -167,6 +167,20 @@ main {
 .highlights-content .highlights-paragraph {
     font-size: 16px;
 }
+ .btn {
+    color: #ffffff;
+    background-color:#E02C6D ;
+    border: none;
+    font-size: 18px;
+    padding: 10px 40px;
+    position: relative;
+    top: 30px;
+}
+.arrow-btn {
+    position: relative;
+    left: 20px;
+}
+ 
 .highlights-img {
     width:500px;
     height: 327px;
