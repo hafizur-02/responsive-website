@@ -279,7 +279,9 @@ media query
         grid-gap:10px;
         margin: 47px auto;
     }
-
+    .copa-match-score{
+        display: none;
+    }
     main .highlights {
         width: 300px;
         grid-template-columns: 360px;
